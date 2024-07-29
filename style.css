@@ -1,0 +1,95 @@
+body {
+    font-family: 'sofia-pro', sans-serif;
+  }
+.navbar-nav{
+    margin: 0 auto;
+}
+.ul-container ul li a{
+    color: #191919;
+    font-weight: 400;
+}
+.bg-header {
+    background: linear-gradient(to bottom, #fcf1eb 0%, #fbeede 100%);
+}
+
+.Lover{
+    background-color: #fae5e5;
+}
+.lover-text{
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+span{
+    color: #e74546;
+}
+strong{
+    color: #f3c45d;
+}
+.h-sub-lover{
+    font-size: 1.5rem;
+}
+.img-line{
+    margin-left: 230px;
+}
+input[type=text] {
+    border: none;
+    outline: none;
+    font-size: 16px;
+    border-radius: 30px;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 10px 40px 10px 40px;
+  }
+  .btn-shadow{
+    box-shadow: 0 8px 16px 0 rgba(253, 105, 105, 0.2), 0 6px 20px 0 rgba(245, 70, 70, 0.19)
+  }
+  .h-special{
+    font-size: 1.7rem;
+    font-weight: bold;
+  }
+  .h-heading{
+    color: #e74546;
+    font-weight: 900
+  }
+  .h-service{
+    font-size: 2rem;
+    font-weight: bold;
+  }
+
+  .text-box{
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  .color-bg{
+      background: linear-gradient(to bottom, #fffffe 0%, #fae5e6 100%);
+  }
+  .logo{
+    font-weight: bold;
+    font-size: 1.4rem;
+  }
+  .about{
+    font-size: 1.1rem;
+    font-weight: 600;
+  }
+  .sub-heading{
+    font-size: .9rem;
+    padding-right: 38px;
+    padding-top: 3px;
+    font-weight: 400;
+  }
+  .h-sub{
+    font-size: .9rem;
+  }
+  input::placeholder{
+    font-size: .8rem;
+    padding-left: 5px;
+  }
+  .menu-item{
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 45px;
+  }
+  .custom-col-1-5 {
+    flex: 0 0 12.5%;
+    max-width: 12.5%;
+  }
